@@ -1,2 +1,3 @@
 # Demo
-My first repo
+My first Git repository
+Author-Asad
